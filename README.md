@@ -49,7 +49,6 @@ print("The Most Likely Sequence of Weather States are:", most_likely)
 
 ## Output:
 ![o1](https://github.com/Vineesh-AI-DS/Ex-4--AAI/assets/93427254/ca31f0a1-0a5b-4f1c-9550-11380df4b684)
-
 ![o2](https://github.com/Vineesh-AI-DS/Ex-4--AAI/assets/93427254/c78041fc-9f04-4bd1-8fa9-fb7c04bd694a)
 
 
